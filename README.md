@@ -1,10 +1,10 @@
-<h1 align="center">Oi ðŸ‘‹, eu sou João Gabriel Castro Santos</h1>
-<h3 align="center">Estudante de Engenharia da computacÃ£o apaixonado por python e desenvolvimento Android</h3>
+<h1 align="center">Oi, eu sou João Gabriel Castro Santos</h1>
+<h3 align="center">Estudante de Engenharia da computação apaixonado por python e desenvolvimento Android</h3>
 
-- ðŸŒ± Atualmente aprendendo sobre **Java | Kotlin | Python | C/C++**
+- Atualmente aprendendo sobre **Java | Kotlin | Python | C/C++**
 
 
-- ðŸ“« Como me encontrar **joao.gcs314@gmail.com**
+- Como me encontrar **joao.gcs314@gmail.com**
 
  <div align="center">
   <a href="https://github.com/Jgcs444">
