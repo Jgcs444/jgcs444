@@ -1,5 +1,5 @@
 <h1 align="center">Oi, eu sou João Gabriel Castro Santos</h1>
-<h3 align="center">Estudante de Engenharia da computação em constante processo de melhoria. Conhecedor de linguagens Python, desenvolvimento Android (Java e Kotlin) dentree outras tecnologias, como C/C++.</h3>
+<h3 align="center">Estudante de Engenharia da computação em constante processo de melhoria. Conhecedor de linguagens Python, desenvolvimento Android (Java e Kotlin) dentre outras tecnologias, como C/C++.</h3>
 
 - Atualmente aprendendo sobre **Java | Kotlin | Python | C/C++**
 
