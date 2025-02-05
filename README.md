@@ -1,8 +1,6 @@
 <h1 align="center">Glorious Evolution</h1>
 
-<p align="center">
-  <img src="https://media.tenor.com/Zc4wM0pT_3YAAAAC/viktor-arcane-jesus.gif" alt="Viktor Arcane GIF" width="400px">
-</p>
+<div class="tenor-gif-embed" data-postid="2553838681418716026" data-share-method="host" data-aspect-ratio="0.666667" data-width="100%"><a href="https://tenor.com/view/viktor-arcane-jesus-hextech-messiah-god-viktor-arcane-arcane-season-2-gif-2553838681418716026">Viktor Arcane Jesus Hextech Messiah God Arcane Season 2 GIF</a>from <a href="https://tenor.com/search/viktor+arcane+jesus+hextech+messiah+god-gifs">Viktor Arcane Jesus Hextech Messiah God GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3 align="center">Engenheiro da computação em constante processo de melhoria. Conhecedor de linguagens Python, desenvolvimento Android (Java e Kotlin) dentre outras tecnologias, como C/C++.</h3>
 
