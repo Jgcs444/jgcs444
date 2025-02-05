@@ -1,8 +1,12 @@
 <h1 align="center">Glorious Evolution</h1>
+
+<p align="center">
+  <img src="https://media.tenor.com/Zc4wM0pT_3YAAAAC/viktor-arcane-jesus.gif" alt="Viktor Arcane GIF" width="400px">
+</p>
+
 <h3 align="center">Engenheiro da computação em constante processo de melhoria. Conhecedor de linguagens Python, desenvolvimento Android (Java e Kotlin) dentre outras tecnologias, como C/C++.</h3>
 
 - Atualmente aprendendo sobre **Java | Kotlin | Python | C/C++**
-
 
 - Como me encontrar **joao.gcs314@gmail.com**
 
@@ -28,12 +32,8 @@
  <br><br>
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/joãogabrielcastrosantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jo%C3%A3ogabrielcastrosantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
- 
- 
-
