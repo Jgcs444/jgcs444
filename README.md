@@ -6,12 +6,12 @@
 
 ###
 
-## Olá, eu sou João! 👋
+## Hello, I am João! 👋
 
-- Engenheiro da computação em constante processo de melhoria.
-- Conhecedor de linguagens **Python | Java | Kotlin | C/C++**.
-- Atualmente aprendendo mais sobre desenvolvimento e automação.
-- Apaixonado por tecnologia e desafios!
+- Computer engineer in a constant process of improvement.
+- Proficient in **Python | Java | Kotlin | C/C++**.
+- Currently learning more about development and automation.
+- Passionate about technology and challenges!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3ogabrielcastrosantos/" target="_blank">
@@ -24,7 +24,7 @@
 
 ###
 
-## Tecnologias
+## Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
@@ -44,10 +44,10 @@
 ###
 ###
 
-## Estatísticas
+## Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jgcs444&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jgcs444&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jgcs444&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jgcs444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
