@@ -1,37 +1,53 @@
 <h1 align="center">Glorious Evolution</h1>
 
-<div class="tenor-gif-embed" data-postid="2553838681418716026" data-share-method="host" data-aspect-ratio="0.666667" data-width="100%"><a href="https://tenor.com/view/viktor-arcane-jesus-hextech-messiah-god-viktor-arcane-arcane-season-2-gif-2553838681418716026">Viktor Arcane Jesus Hextech Messiah God Arcane Season 2 GIF</a>from <a href="https://tenor.com/search/viktor+arcane+jesus+hextech+messiah+god-gifs">Viktor Arcane Jesus Hextech Messiah God GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-<h3 align="center">Engenheiro da computação em constante processo de melhoria. Conhecedor de linguagens Python, desenvolvimento Android (Java e Kotlin) dentre outras tecnologias, como C/C++.</h3>
-
-- Atualmente aprendendo sobre **Java | Kotlin | Python | C/C++**
-
-- Como me encontrar **joao.gcs314@gmail.com**
-
- <div align="center">
-  <a href="https://github.com/Jgcs444">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jgcs444&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jgcs444&layout=compact&langs_count=7&theme=react"/>
+<div align="center">
+  <img src="https://github.com/Jgcs444/Jgcs444/blob/main/freiren2.gif" height="234" width="440"/>
 </div>
 
-<div style="display: inline_block"><br>
-<p align="center"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-    </a>   
-    </p>
+###
+
+## Olá, eu sou João! 👋
+
+- Engenheiro da computação em constante processo de melhoria.
+- Conhecedor de linguagens **Python | Java | Kotlin | C/C++**.
+- Atualmente aprendendo mais sobre desenvolvimento e automação.
+- Apaixonado por tecnologia e desafios!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3ogabrielcastrosantos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:joao.gcs314@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
- <br><br>
+###
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/jo%C3%A3ogabrielcastrosantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+## Tecnologias
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=android" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
+
+###
+###
+
+## Estatísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jgcs444&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jgcs444&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
