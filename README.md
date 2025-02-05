@@ -1,7 +1,7 @@
 <h1 align="center">Glorious Evolution</h1>
 
 <div align="center">
-  <img src="viktor-arcane-jesus-hextech-messiah-god-viktor-arcane.gif" height="434" width="440"/>
+  <img src="viktor-arcane-jesus-hextech-messiah-god-viktor-arcane.gif" height="500" width="440"/>
 </div>
 
 ###
