@@ -8,10 +8,10 @@
 
 ## Hello, I am João! 👋
 
-- Computer engineer in a constant process of improvement.
-- Proficient in **Python | Java | Kotlin | C/C++**.
-- Currently learning more about development and automation.
-- Passionate about technology and challenges!
+- Computer Engineer committed to continuous learning and improvement.
+- Proficient in Python | Java | Kotlin | C/C++.
+- Currently expanding knowledge in software development and related fields.
+- Enthusiastic about technology and problem-solving challenges!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3ogabrielcastrosantos/" target="_blank">
