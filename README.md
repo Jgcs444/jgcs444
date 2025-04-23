@@ -26,6 +26,8 @@
 
 ## Technologies
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -40,7 +42,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="C++ logo"  />
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="Unreal logo"  />
   <img width="12" />
 </div>
 
